@@ -3,7 +3,6 @@
 //  rested-ios
 //
 //  Created by Zain Haq on 2017-04-16.
-//  Copyright © 2017 Rested. All rights reserved.
 //
 
 import Foundation
