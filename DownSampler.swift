@@ -1,6 +1,6 @@
 //
 //  DownSampler.swift
-//  rested-ios
+//
 //
 //  Created by Zain Haq on 2017-04-16.
 //
